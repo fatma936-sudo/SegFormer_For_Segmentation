@@ -21,7 +21,7 @@ Features included:
 Requirements
 - PyTorch 2.x
 - Transformers
-- CUDA GPU recommended for training
+- CUDA GPU recommended for training you can either use Google Colab or Vast.ai: https://cloud.vast.ai/?ref_id=200611
 
 📌 Dataset
 
